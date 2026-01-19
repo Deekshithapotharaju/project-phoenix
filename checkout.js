@@ -1,5 +1,6 @@
 function calculatePrice(amount) {
-    return amount + 50;
+    const gstPrice = amount * 1.18;
+    return gstPrice + 50;
 }
 
 module.exports = calculatePrice;
