@@ -9,3 +9,6 @@ To rebuild and relaunch a lost system using modern DevOps practices, ensuring re
 - Git & Version Control
 - CI/CD Pipelines
 - Cloud-native deployment
+## Development Status
+Repository recreated from scratch after data loss.
+Version control restored.
