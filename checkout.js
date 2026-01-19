@@ -1,5 +1,5 @@
 function calculatePrice(amount) {
-    return amount * 1.10;
+    return amount + 50;
 }
 
 module.exports = calculatePrice;
